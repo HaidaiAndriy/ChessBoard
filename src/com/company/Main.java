@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Введите длинну: ");
         height=getInfo();
         ChessBoard.chessBoard(width,height);
+        System.out.println("Введите длинну: ");
         }
 
         public static int getInfo() {
